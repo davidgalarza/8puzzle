@@ -1,0 +1,13 @@
+{
+  "name": "8puzzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "app": "tsc && node ./dist/index"
+  },
+  "author": "",
+  "license": "ISC"
+}
